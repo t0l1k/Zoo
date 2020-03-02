@@ -3,5 +3,6 @@ public class Zoo{
         System.out.println("Welcome to Zoo");
         Zebra zebra = new Zebra();
         Hippo hippo = new Hippo();
+        Giraffe giraffe = new Giraffe();
     }
 }
