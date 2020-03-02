@@ -4,5 +4,7 @@ public class Zoo{
         Zebra zebra = new Zebra();
         Hippo hippo = new Hippo();
 	Penguin penguin = new Penguin();
+        Lion lion = new Lion();
+        Giraffe giraffe = new Giraffe();
     }
 }
